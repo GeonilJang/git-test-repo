@@ -21,8 +21,4 @@
 </pre>
 
 1. 브랜치를 생성하자 git branch 이름
-<<<<<<< HEAD
-1. 브랜치 변경하자 git checkout 이름
-=======
-1. 브랜치 변경하자 git checkout 이름 음...
->>>>>>> feat/comment
+1. 브랜치 변경하자 git checkout 이름 1
