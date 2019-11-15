@@ -16,6 +16,7 @@
     파일수정    add. [stage] 수정없음 --- commit --- push ---> [원격저장소]
     + 파일 생성              파일수정
                              파일생성
+                             test..
 
 </code>
 </pre>
